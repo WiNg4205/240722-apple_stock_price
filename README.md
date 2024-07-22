@@ -1,4 +1,4 @@
-# 22/07/24-apple_stock_price
+# 22/07/24-apple_stock_price (#4)
 This is an animated graph made in matplotlib showing the price of an Apple
 share from 1986 to the present day.
 
